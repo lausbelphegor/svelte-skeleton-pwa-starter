@@ -38,7 +38,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-sm uppercase">Kema</strong>
+				<strong class="text-sm uppercase">[Placeholder]</strong>
 			</svelte:fragment>
 			<svelte:fragment slot="trail"></svelte:fragment>
 		</AppBar>
